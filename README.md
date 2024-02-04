@@ -1,3 +1,21 @@
+# 📜 The Chronicle of My Academic Quest
+
+🚀 Mastering the Realm: M.S. in Computer Science
+- 🏛 **Citadel of Wisdom:** University Of Wollongong, nestled in the verdant lands of Wollongong, NSW, Australia
+- 📅 **Seasons of Study:** 2022 - 2024
+- 🛠 **Majors Forged in the Crucible of Knowledge:**
+  - 🧠**First Scroll:** Machine Learning and Big Data, where the mysteries of ancient algorithms and vast data realms are unraveled.
+  - 💻 **Second Scroll:** Software Engineering, mastering the art of crafting robust fortresses and elegant solutions in code.
+- 🗺 **Saga:** In the southern lands, where the dragons of technology breathe fire into the future, I embarked upon a grand quest. It was a journey to not only harness the arcane powers of Machine Learning and Big Data but also to command the legions of Software Engineering. Here, I stand, a maester in the making, forging my path in the annals of the digital realm.
+
+## 🌱 Planting the Seeds: B.S. in Computer Science and IT
+- 🎓 **Hall of Elders:** Tribhuvan University, within the mystical valleys of Kathmandu, Nepal
+- 📅 **Epoch:** 2014 - 2018
+- 📚 **Chronicle:** Amidst the towering peaks and ancient spirits, my journey commenced. In this cradle of civilization, I sought the ancient texts of Computer Science and Information Technology. This was not merely an academic pursuit but a quest for the very essence of knowledge, to unlock the secrets that bind the world of technology.
+
+---
+This chronicle of mine is more than just the accumulation of knowledge; it's a testament to my journey across continents, cultures, and the ever-evolving landscape of technology. Each chapter filled with challenges, learnings, and the relentless pursuit of excellence.
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikramk7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bikramk7) 
 
